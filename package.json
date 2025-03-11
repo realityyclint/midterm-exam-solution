@@ -1,0 +1,21 @@
+{
+  "dependencies": {
+    "express": "^4.21.2",
+    "mysql2": "^3.13.0",
+    "sequelize": "^6.37.6"
+  },
+  "name": "new-folder",
+  "version": "1.0.0",
+  "main": "users.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/realityyclint/midterm-exam-solution"
+  },
+  "keywords": [],
+  "author": "Clint Brian Castillo",
+  "license": "ISC",
+  "description": ""
+}
